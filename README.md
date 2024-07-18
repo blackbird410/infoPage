@@ -1,1 +1,1 @@
-Basic informational webpage served using NodeJS as part of The Odin Project course curriculum.
+Basic informational webpage served using NodeJS and Express.
